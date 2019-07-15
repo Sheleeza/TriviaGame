@@ -1,0 +1,68 @@
+body {
+    width: 100%;
+    background: rgb(122, 132, 167);
+}
+
+.heading {
+    display: block;
+    margin: auto;
+    width: 50em;
+    position: relative;
+}
+
+#trivia {
+    display: block;
+    margin: auto;
+    width: 50em;
+}
+
+p {
+    font-size: 2em;
+    font-family: 'font-family: 'DM Serif Display', serif;';
+    position: absolute;
+    margin-top: 9em;
+    color: rgb(32, 14, 133);
+    padding: 50px;
+    text-align: left;
+}
+
+.main {
+    margin: auto;
+    color: rgb(235, 234, 225);
+    font-family: 'font-family: 'DM Serif Display', serif;';
+    font-size: 2em;
+    text-align: left;
+    width: 30em;
+}
+
+h2 {
+    font-size: 1em;
+    font-weight: normal;
+}
+
+.time {
+    margin: auto;
+    color: #EDE01C;
+    font-family: 'font-family: 'DM Serif Display', serif;';
+    font-size: 2em;
+    text-align: center;
+}
+
+button {
+    width: 50%;
+    margin: auto;
+    font-size: 40px;
+    background: rgb(17, 22, 66);
+    color: inherit;
+    margin: 50px;
+    border: 1px solid black;
+    font-family: 'font-family: 'DM Serif Display', serif;';
+}
+
+button:hover {
+    background: rgb(17, 22, 66) !important;
+}
+
+#ansImg {
+    width: 400px;
+}
